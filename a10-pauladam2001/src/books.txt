@@ -1,0 +1,13 @@
+1111;asdfg;asdfg
+1122;aaa;aaa
+123;asd;asd
+1111111;eeee;eee
+12345;rrr;rrr
+1333;www;www
+4444;ssss;ssss
+21345;eew;eew
+999;ppp;ppp
+1456;pop;pop
+1234555;qqq;qqq
+2222;AAAAA;AAAAA
+00;paps;paps
